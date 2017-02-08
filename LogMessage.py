@@ -17,7 +17,6 @@
 # message.write('whatever you want to log.')
 #
 
-
 class LogMessage:
     def __init__(self, fileName):
         self.fn = fileName
